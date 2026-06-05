@@ -44,9 +44,6 @@ obstacle detection, robotics, and basic security applications.
 | 16x2 LCD Screen            | 1        |
 | Potentiometer (LCD contrast)| 1       |
 | Resistors                  | —        |
-| Breadboard                 | 1        |
-| Jumper Wires               | —        |
-
 ---
 
 ## Software & Tools
